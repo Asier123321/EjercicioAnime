@@ -1,8 +1,9 @@
 package com.example.ejercicioanime;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 
-public class Anime
+public class Anime implements Serializable
 {
     private String icono, nombre = "";
     private ArrayList<Personaje> personajes = null;

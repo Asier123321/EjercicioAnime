@@ -4,7 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/almi/AndroidStudioProjects/EjercicioAnime/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/almi/AndroidStudioProjects/EjercicioAnime/app/src/main/res/layout/activity_pantalla_grande.xml" value="0.21875" />
+        <entry key="..\:/Users/almi/AndroidStudioProjects/EjercicioAnime/app/src/main/res/layout/activity_personajes.xml" value="0.21510416666666668" />
         <entry key="..\:/Users/almi/AndroidStudioProjects/EjercicioAnime/app/src/main/res/layout/cabecera.xml" value="0.21875" />
+        <entry key="..\:/Users/almi/AndroidStudioProjects/EjercicioAnime/app/src/main/res/layout/grid_diseno.xml" value="0.21510416666666668" />
         <entry key="..\:/Users/almi/AndroidStudioProjects/EjercicioAnime/app/src/main/res/layout/list_view_anime.xml" value="0.67" />
       </map>
     </option>
